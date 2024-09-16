@@ -4,10 +4,10 @@ body {
     margin: 0px;
 }
 
-header{
+header {
 
-border-bottom: solid rgb( rgb(85, 217, 235));
-padding: 20px;
-font-size: 32px;
-color:rgb(85, 217, 235);
+    border-bottom: solid rgb(85, 217, 235);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(85, 217, 235);
 }
