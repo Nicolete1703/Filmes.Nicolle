@@ -1,4 +1,13 @@
 body {
     color: aqua;
     background: black;
+    margin: 0px;
+}
+
+header{
+
+border-bottom: solid rgb( rgb(85, 217, 235));
+padding: 20px;
+font-size: 32px;
+color:rgb(85, 217, 235);
 }
