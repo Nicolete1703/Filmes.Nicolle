@@ -11,3 +11,15 @@ header {
     font-size: 32px;
     color: rgb(85, 217, 235);
 }
+
+section{
+    background: rgb(6, 76, 122);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+    .chamada-texto{
+    margin-right: 20px;
+}
